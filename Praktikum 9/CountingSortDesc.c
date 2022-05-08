@@ -2,7 +2,7 @@
 //Deskripsi 	: membuat program counting sort descending
 //Nama          : Fikri Prasetya Nurhidayat
 //NIM           : 24060121140153
-//Tgl Pembuatan	: 6 Mei 2022
+//Tanggal Pembuatan	: 6 Mei 2022
 
 #include <stdio.h>
 #include <stdlib.h>
